@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[omg:home|Door43 (omg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-omg|d43-omg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-omg/archive/master.zip|d43-omg.zip]]
+
+**Recent Changes**
+{{changes>ns = omg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/omg|Ethnologue data]]
+
